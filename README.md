@@ -1,9 +1,9 @@
 # 🎨 Penzil Pro — Dibuja en 3D como nunca antes
 
-**Penzil Pro** es una innovadora aplicación de dibujo 3D pensada para artistas, diseñadores y creativos que desean ir más allá del lienzo plano. Este libro te guía paso a paso para dominar la herramienta y transformar tus ideas en bocetos tridimensionales con total libertad.
+**Penzil Pro** es una innovadora aplicación de dibujo 3D pensada para artistas, diseñadores y creativos que desean ir más allá del lienzo plano. 
 
 👉 **Repositorio oficial:**  
-🔗 https://github.com/XocoStudio/Book-Penzil-Pro  
+🔗 [https://github.com/XocoStudio/Book-Penzil-Pro  ](https://github.com/jacopocolo/Penzil)
 
 ---
 
