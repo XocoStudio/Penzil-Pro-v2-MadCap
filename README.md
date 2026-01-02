@@ -1,55 +1,78 @@
-# Manual de Usuario - Penzil Pro
+# 🎨 Penzil Pro — Dibuja en 3D como nunca antes
+
+**Penzil Pro** es una innovadora aplicación de dibujo 3D pensada para artistas, diseñadores y creativos que desean ir más allá del lienzo plano. Este libro te guía paso a paso para dominar la herramienta y transformar tus ideas en bocetos tridimensionales con total libertad.
+
+👉 **Repositorio oficial:**  
+🔗 https://github.com/XocoStudio/Book-Penzil-Pro  
+
+---
 
 ## 🖌️ ¿Qué es Penzil Pro?
-Penzil Pro es una aplicación web para **dibujo y bocetado en 3D**. A diferencia de los programas de dibujo tradicionales (2D), Penzil te permite dibujar trazos que existen en el espacio tridimensional, proyectándolos sobre superficies como planos, esferas o cubos. Es ideal para artistas conceptuales, diseñadores y animadores que quieren explorar ideas en 3D con la libertad del dibujo a mano.
+
+Penzil Pro es una aplicación web de **dibujo y bocetado en 3D** que permite crear trazos directamente en el espacio tridimensional. A diferencia de los programas tradicionales en 2D, aquí dibujas **sobre planos, cubos o esferas**, logrando volumen real desde el primer trazo.
+
+Ideal para:
+- 🎨 Artistas conceptuales  
+- 🧠 Diseñadores  
+- 🎮 Desarrolladores de videojuegos  
+- 🏗️ Arquitectos  
+- ✏️ Ilustradores digitales  
 
 ---
 
-## 🚀 Uso Básico
+## 🚀 Primeros Pasos
 
 ### 1. Dibujar
-*   Selecciona la herramienta **Draw** (Lápiz) en el menú superior.
-*   Haz clic y arrastra sobre el lienzo blanco (Canvas) para dibujar.
-*   Tus trazos se "pegarán" a la superficie y orientación del Canvas.
+* Selecciona la herramienta **Draw** (Lápiz).
+* Haz clic y arrastra sobre el lienzo.
+* Los trazos se adaptan automáticamente a la superficie activa.
 
 ### 2. Mover la Cámara
-Para navegar por tu escena 3D:
-*   **Rotar:** Mantén presionado **Alt** + **Click Izquierdo** y arrastra. (O usa un solo dedo en tablet).
-*   **Mover (Pan):** Mantén presionado **Espacio** + **Click Izquierdo** y arrastra. (O usa dos/tres dedos en tablet).
-*   **Zoom:** Usa la rueda del ratón o el gesto de pinza.
+* **Rotar:** `Alt + Click izquierdo` (o un dedo en tablet).
+* **Mover (Pan):** `Espacio + Click izquierdo`.
+* **Zoom:** Rueda del ratón o gesto de pinza.
 
 ### 3. Manipular el Canvas
-El "Canvas" es el plano blanco donde dibujas. Puedes moverlo para dibujar en diferentes planos de profundidad:
-*   Usa los controles (flechas y arcos) que aparecen en el centro del Canvas cuando no estás dibujando.
-*   Esto te permite crear dibujos con volumen y profundidad real.
+El **Canvas** es tu espacio de trabajo tridimensional:
+* Muévelo y oriéntalo libremente.
+* Dibuja en distintos planos para crear profundidad real.
 
 ---
 
-## ⌨️ Teclas Rápidas (Shortcuts)
+## ⌨️ Atajos Esenciales
 
-Agiliza tu flujo de trabajo con estos atajos:
-
-| Tecla / Acción | Función |
-| :--- | :--- |
-| **Espacio** | Alterna entre modo dibujo y modo movimiento de cámara (Pan). |
-| **Alt (Izquierdo)** | Activa la rotación de cámara mientras se mantiene pulsado. |
-| **Alt Gr** | Oculta o muestra toda la interfaz (Modo Pantalla Completa). |
-| **Shift (Mayús)** | **Restricción de Ángulo:** Mantén pulsado mientras dibujas para trazar líneas rectas o en ángulos de 45°. |
-| **Click Derecho** | **Deshacer (Undo):** Borra el último trazo realizado. |
-| **Delete / Backspace** | Elimina el objeto o trazo seleccionado. |
+| Tecla | Acción |
+|------|-------|
+| **Espacio** | Alterna entre dibujo y movimiento de cámara |
+| **Alt Izquierdo** | Rotar cámara |
+| **Alt Gr** | Mostrar / ocultar interfaz |
+| **Shift** | Dibujar líneas rectas o ángulos fijos |
+| **Click derecho** | Deshacer último trazo |
+| **Delete / Backspace** | Eliminar elemento seleccionado |
 
 ---
 
-## 🛠️ Funcionalidades Principales
+## 🛠️ Funciones Destacadas
 
-*   **Capas (Layers):** Organiza tu dibujo por capas para separar elementos.
-*   **Simetría:** Activa la simetría para dibujar espejado en tiempo real (ideal para caras, vehículos, etc.).
-*   **Propiedades de Línea:** Ajusta el grosor, color y "vibración" (wiggle) de tus trazos para darles un estilo único.
-*   **Canvas Shapes:** Cambia la forma de tu superficie de dibujo (Plano, Cubo, Esfera) para dibujar sobre volúmenes complejos.
-*   **Guardar/Cargar:** Guarda tus proyectos localmente como archivos `.json` para continuarlos después.
+- **Capas (Layers):** organiza tu trabajo de forma profesional.  
+- **Simetría en tiempo real:** ideal para personajes y objetos técnicos.  
+- **Control del trazo:** ajusta grosor, color y vibración.  
+- **Canvas 3D:** dibuja sobre planos, cubos o esferas.  
+- **Guardado local:** exporta y continúa tus proyectos cuando quieras.
 
 ---
 
-## 💡 Consejos
-*   Si dibujas con una tableta gráfica, Penzil detectará la presión del lápiz para variar el grosor de la línea.
-*   Usa el **Cubo de Vista** (esquina superior derecha) para alinearte rápidamente a una vista Frontal, Superior o Lateral.
+## 💡 Consejos Profesionales
+
+- Compatible con **tabletas gráficas** y presión del lápiz.
+- Usa el **Cubo de Vista** para cambiar rápidamente entre vistas frontal, lateral o superior.
+- Combina capas y simetría para acelerar tu flujo creativo.
+
+---
+
+## 📘 ¿Por qué este libro?
+
+Este libro no solo enseña a usar Penzil Pro, sino que te ayuda a **pensar en 3D mientras dibujas**. Es una guía práctica, clara y visual para artistas que quieren llevar su proceso creativo al siguiente nivel.
+
+👉 **Descúbrelo aquí:**  
+🔗 https://github.com/XocoStudio/Book-Penzil-Pro
