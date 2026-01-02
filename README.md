@@ -2,7 +2,7 @@
 
 **Penzil Pro** es una innovadora aplicación de dibujo 3D pensada para artistas, diseñadores y creativos que desean ir más allá del lienzo plano. 
 
-App:https://xocostudio.github.io/Penzil-Pro-v2-MadCap/
+App: https://xocostudio.github.io/Penzil-Pro-v2-MadCap/
 
 👉 **Repositorio oficial:**  
 🔗 (https://github.com/jacopocolo/Penzil)
